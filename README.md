@@ -1,8 +1,8 @@
 Rubik's Cube Scrambler in Typescript
 ====================================
 
-This is a typescript version of the repo [https://github.com/jnrbsn/rubiks-cube-scrambler](https://github.com/jnrbsn/rubiks-cube-scrambler)
+This is a typescript version of the repo [jnrbsn/rubiks-cube-scrambler](https://github.com/jnrbsn/rubiks-cube-scrambler)
 
-This is a super simple Rubik's Cube scrambler written in Typescript. It's meant
-to be fast, lightweight, run completely in your browser, and not be annoying to
-use on mobile devices. Read the comments in the code for details on how it works.
+It was forked and written in Typescript in order to use it as part of [Chronocube app](https://github.com/pablopunk/chronocube), a software to manage Rubik's cube solves.
+
+It works as well [in the browser](http://pablopunk.com/typescript-rubik-scrambler/), just like the old repo.
