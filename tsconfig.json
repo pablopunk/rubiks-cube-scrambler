@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist/",
+        "sourceMap": true,
+        "target": "es5"
+    },
+    "files": [
+        "cube.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
